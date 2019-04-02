@@ -232,7 +232,7 @@ function draw(ELData, question){
             .attr('id', 'hoverBox')
 
           hoverBox.style('left', function(){
-                    if (d3.event.pageX > window.width/2){
+                    if (d3.event.pageX > (window.width/2 + 10)){
                       if (d3.event.pageX + 325 > window.width){
                         return `${d3.event.pageX - 325}px`;
                       }
