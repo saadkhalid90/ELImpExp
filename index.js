@@ -222,7 +222,7 @@ function draw(ELData, question){
           {label: "Age", value: "Age"},
           {label: "City", value: "City"},
           {label: "Program", value: "Program"},
-          {label: "Basline", value: `${question}B`},
+          {label: "Baseline", value: `${question}B`},
           {label: "Endline", value: `${question}E`},
         ];
 
