@@ -1,0 +1,298 @@
+UID,City,Status,Name,Q1E,Q2E,Q3E,Q4E,Q5E,Q6E,Q7E,Q8E,Q9E,Q10E,Q11E,Q12E,Q13E,Q14E,Q15E,Q16E,Q17E,Q1B,Q2B,Q3B,Q4B,Q5B,Q6B,Q7B,Q8B,Q9B,Q10B,Q11B,Q12B,Q13B,Q14B,Q15B,Q16B,Q17B,School Name,Participant Name,Team,Age,Gender,Program,Year of Intervention
+DHW01,Dharwad,Present,Purnima B Betgeri,5,5,4,3,4,5,3,4,3,5,5,4,2,3,3,5,2,4,1,1,3,3,5,4,5,2,1,3,2,4,3,2,4,2,Marewad HPS,Purnima B Betgaeri,NA,10,Female,BM,1
+DHW02,Dharwad,Present,Eranna Sangolli,4,3,4,3,4,5,1,5,5,4,3,5,4,5,2,2,2,5,5,3,2,2,3,4,4,5,4,4,5,4,4,4,4,3,Marewad HPS,Eranna Sangolli,NA,9,Male,BM,1
+DHW03,Dharwad,Present,Yallappa Sabrad,4,3,3,3,5,3,5,3,5,2,4,3,2,4,5,3,4,3,3,1,3,5,3,2,3,5,1,2,5,1,3,4,2,5,Marewad HPS,Yallappa Sabrad,NA,9,Male,BM,1
+DHW04,Dharwad,Present,Maltesh Chandaragi,3,5,4,3,2,3,3,3,4,4,3,5,5,5,3,3,3,5,5,3,5,2,2,5,4,5,2,2,5,4,5,4,4,4,Marewad HPS,Maltesh Chandaragi,NA,10,Male,BM,1
+DHW06,Dharwad,Present,Priya Satannavar,5,5,3,4,5,5,4,5,5,3,4,5,5,5,2,3,3,5,2,3,2,4,4,5,3,4,4,4,3,4,5,3,4,4,Marewad HPS,Priya Satannavar,NA,10,Female,BM,1
+DHW07,Dharwad,Present,Nagaraj Satannavar,2,4,3,3,5,4,5,3,5,1,5,4,4,3,4,5,3,5,4,5,5,4,5,4,5,5,4,4,5,4,5,3,3,4,Marewad HPS,Nagaraj Satannavar,NA,10,Male,BM,1
+DHW08,Dharwad,Present,Aaditya Gudgeri,3,4,4,3,4,5,2,4,5,2,4,5,3,2,5,2,3,3,4,5,5,3,4,1,4,5,3,5,4,3,4,1,2,2,Marewad HPS,Aaditya Gudgeri,NA,8,Male,BM,1
+DHW09,Dharwad,Present,Nandish Bahul,3,1,3,5,3,3,3,1,1,3,2,1,3,3,5,3,3,3,5,3,5,3,3,3,2,2,5,2,4,3,3,3,1,3,Marewad HPS,Nandish Bahul,NA,8,Male,BM,1
+DHW10,Dharwad,Present,Shanta Hubballi,4,3,3,5,4,5,2,4,4,4,3,4,2,4,3,5,4,4,2,3,4,3,3,3,2,2,3,2,3,2,3,2,2,2,Marewad HPS,Shanta Hubballi,NA,10,Female,BM,1
+DHW11,Dharwad,Present,Lalita Gaddi,4,5,3,4,5,4,2,4,5,4,4,4,5,5,1,2,4,4,5,3,4,5,3,2,4,5,4,4,4,5,5,1,5,2,Karadigudda HPS,Lalita Gaddi,U12,12,Female,JFK,3
+DHW13,Dharwad,Present,Gururaj Kammar,4,5,4,5,3,5,2,4,5,2,3,5,5,4,2,5,2,4,3,4,4,3,4,3,4,3,4,3,4,3,4,3,3,2,Karadigudda HPS,Gururaj Kammar,U11,11,Male,JFK,2
+DHW14,Dharwad,Present,Annapurna Chandaragi,5,4,3,4,5,2,2,5,4,4,5,5,4,4,2,5,3,4,4,3,4,4,3,3,4,3,5,5,4,4,5,5,5,1,Karadigudda HPS,Annapurna Chandaragi,U14,13,Female,JFK,2
+DHW15,Dharwad,Present,Shashidhar Sangappanavar,5,4,5,5,5,3,3,4,4,5,3,4,5,5,1,2,5,5,5,4,5,3,3,3,4,5,4,3,4,4,5,2,3,3,Karadigudda HPS,Shashidhar Sangappanavar,U14,13,Male,JFK,2
+DHW16,Dharwad,Present,Prathiba Haranatti,5,5,2,5,5,4,2,5,5,5,5,5,4,5,3,4,3,4,5,4,5,3,3,2,4,4,4,2,3,4,5,2,3,4,Karadigudda HPS,Prathiba Haranatti,U14,13,Female,JFK,2
+DHW17,Dharwad,Present,Chaitra Hadpad,4,5,4,5,4,5,3,5,4,4,5,3,5,5,1,3,3,4,3,5,4,4,5,3,2,5,4,3,5,4,5,1,3,3,Karadigudda HPS,Chaitra Hadpad,U14,13,Female,JFK,2
+DHW18,Dharwad,Present,Shanur Nadaf,5,4,3,3,3,3,2,3,3,4,4,3,4,4,2,2,3,4,5,4,2,4,4,4,3,5,3,4,5,4,4,2,3,2,Karadigudda HPS,Shanur Nadaf,U14,13,Male,JFK,2
+DHW19,Dharwad,Present,Jyoti Gaddi,5,5,3,2,3,3,2,2,4,5,3,4,5,5,1,3,3,5,4,5,5,3,2,1,5,4,3,3,5,5,4,1,1,2,Karadigudda HPS,Jyoti Gaddi,U12,12,Female,JFK,2
+DHW20,Dharwad,Present,Karthik Hooli,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,4,5,5,4,5,5,2,2,3,4,1,4,4,4,2,4,1,2,4,Karadigudda HPS,Karthik Hooli,U12,12,Male,JFK,2
+DHW21,Dharwad,Present,Sanjana Kavali,5,3,4,3,3,2,1,5,3,5,5,3,5,4,1,2,3,5,3,5,5,3,5,3,5,5,5,1,5,5,5,1,5,5,Kavalageri HPS,Sanjana Kavali,NA,10,Female,MB,1
+DHW22,Dharwad,Present,Sanjana Godi,5,1,5,5,3,3,3,5,5,3,3,3,3,5,3,2,5,5,5,5,5,3,3,3,5,5,5,1,3,3,4,3,3,5,Kavalageri HPS,Sanjana Godi,NA,11,Female,MB,1
+DHW23,Dharwad,Present,Kutija Kundgol,5,3,1,4,1,2,1,5,4,4,4,3,1,4,1,1,2,4,4,3,4,3,3,1,5,2,1,3,3,2,5,3,2,1,Kavalageri HPS,Kutija Kundgol,NA,10,Female,MB,1
+DHW24,Dharwad,Present,Shreedevi Uppar,4,3,2,3,3,3,5,4,4,4,4,5,3,3,1,2,4,5,4,4,3,5,5,5,5,5,5,5,5,4,5,5,1,5,Kavalageri HPS,Shreedevi Uppar,NA,10,Female,MB,1
+DHW25,Dharwad,Present,Lakshmi Uppar,5,3,3,5,4,3,3,3,1,4,2,4,2,3,3,3,3,5,5,5,5,3,3,3,3,3,3,3,3,3,3,3,3,3,Kavalageri HPS,Lakshmi Uppar,NA,11,Female,MB,1
+DHW26,Dharwad,Present,Basavva Morabad,4,5,3,3,3,5,3,1,5,1,5,4,5,4,1,2,3,5,3,4,4,5,3,1,5,4,2,3,3,2,4,4,2,1,Kavalageri HPS,Basavva Morabad,NA,9,Female,MB,1
+DHW27,Dharwad,Present,saniyabanu Sandimani,5,1,2,5,4,4,1,4,4,4,1,1,3,3,3,4,3,5,1,1,5,5,4,3,3,5,5,1,3,1,5,3,3,3,Kavalageri HPS,Saniyabanu Sandimani,NA,9,Female,MB,1
+DHW30,Dharwad,Present,Najamabanu Nadaf,4,4,5,4,4,3,1,4,5,5,5,3,4,4,1,3,4,5,1,3,5,5,5,1,5,5,5,1,5,5,5,1,5,5,Kavalageri HPS,Najamabanu Nadaf,NA,11,female,MB,1
+DHW31,Dharwad,Present,Avinash Mattin,5,3,5,5,3,3,5,3,5,3,1,4,3,5,1,3,3,5,2,3,3,3,4,2,4,4,3,3,2,3,2,5,5,3,Maradagi HPS,Avinash Mattin,U10,9,Male,JFK,1
+DHW32,Dharwad,Present,Suresh Taragar,4,2,4,3,4,3,3,2,4,2,2,1,4,4,3,2,3,4,3,2,5,3,5,5,5,2,4,3,3,4,3,2,3,5,Maradagi HPS,Suresh Taragar,U10,9,Male,JFK,1
+DHW33,Dharwad,Present,Bharat Madar,4,5,3,5,2,2,3,5,4,3,5,3,2,4,2,3,2,4,2,3,5,3,1,5,2,4,5,3,2,3,5,1,4,3,Maradagi HPS,Bharat Madar,U10,10,Male,JFK,1
+DHW35,Dharwad,Present,Vinay Mulimani,3,3,3,4,4,5,3,4,5,5,2,4,4,5,3,2,3,4,3,4,4,3,1,5,1,5,4,1,3,5,5,1,4,3,Maradagi HPS,Vinay Mulimani,U10,10,Male,JFK,1
+DHW36,Dharwad,Present,Yallappa Hampannavar,4,5,4,5,4,3,2,3,4,2,3,4,3,5,3,2,5,5,4,5,4,4,2,3,5,4,3,3,2,3,3,4,2,2,Maradagi HPS,Yallappa Hampannavar,U10,10,Male,JFK,1
+DHW37,Dharwad,Present,Shivanand Doddamani,5,4,3,5,3,4,2,5,5,4,4,3,4,4,5,4,4,3,2,2,5,5,3,5,4,5,5,2,3,2,2,3,3,1,Maradagi HPS,Shivanand Doddamani,U10,10,Male,JFK,1
+DHW38,Dharwad,Present,Preetam Kathapati,3,2,4,2,5,3,2,3,2,1,3,4,3,5,2,3,4,4,5,4,3,4,5,3,3,4,5,3,3,4,3,3,3,3,Maradagi HPS,Preetam Kathapati,U10,9,Male,JFK,1
+DHW39,Dharwad,Present,Kartik Ballary,5,4,3,4,5,3,2,3,4,4,3,4,5,5,5,3,3,5,5,5,5,5,5,4,5,5,4,4,5,4,5,4,4,4,Maradagi HPS,Kartik Ballary,U10,10,Male,JFK,1
+DHW40,Dharwad,Present,Dayanand Arali,5,2,3,5,5,5,3,5,5,3,1,1,4,4,1,4,2,5,5,5,5,5,5,1,5,1,3,5,5,5,5,1,1,1,Maradagi HPS,Dayanand Arali,U10,9,Male,JFK,1
+DHW41,Dharwad,Present,Sukanya Marewad,4,2,4,5,3,3,1,4,4,4,4,3,5,5,2,3,5,5,5,4,4,5,4,1,4,5,4,4,5,4,5,1,5,5,Timmapur HPS,Sukanya Marewad,U10,9,Female,JFK,1
+DHW42,Dharwad,Present,Iranna Siddannavar,5,5,1,2,5,4,2,4,2,4,4,3,3,4,3,3,4,5,5,4,4,1,3,3,3,5,3,4,3,1,3,1,5,5,Timmapur HPS,Iranna Siddannavar,U12,11,Male,JFK,1
+DHW43,Dharwad,Present,Abhishek Duragannavar,4,2,2,5,5,5,2,3,4,4,4,4,3,3,5,2,2,4,3,3,4,5,4,2,2,4,4,5,3,3,4,2,3,2,Timmapur HPS,Abhishek Duragannavar,U14,13,Male,JFK,3
+DHW44,Dharwad,Present,Parvati Doddagoudra,5,3,3,5,3,3,3,2,3,3,3,4,4,4,1,3,3,5,4,3,5,5,5,3,3,3,5,5,4,4,4,3,3,2,Timmapur HPS,Parvati Doddagoudra,U10,10,Female,JFK,1
+DHW45,Dharwad,Present,Vinaygouda Jattinagoudra,4,3,5,5,3,2,1,4,4,4,4,3,4,5,3,3,5,2,4,3,4,3,4,1,4,4,1,2,5,5,4,3,1,5,Timmapur HPS,Vinaygouda Jattinagoudra,U12,11,Male,JFK,2
+DHW46,Dharwad,Present,Preeti Hulagur,3,4,2,5,3,3,2,2,4,3,3,2,4,3,2,2,2,3,4,1,5,3,2,2,2,5,3,2,1,3,5,1,3,5,Timmapur HPS,Preeti Hulagur,U10,9,Female,JFK,1
+DHW47,Dharwad,Present,Pavitra Jalagar,4,5,4,2,3,4,3,5,4,4,5,4,5,4,4,5,5,4,3,4,4,5,3,1,1,5,1,1,1,1,1,1,3,3,Timmapur HPS,Pavitra Jalagar,U10,9,Female,JFK,1
+DHW49,Dharwad,Present,Madhu hulagur,4,5,3,5,2,3,2,4,5,3,4,5,4,3,1,2,3,2,3,3,4,3,2,2,3,1,3,3,4,3,4,3,1,1,Timmapur HPS,Madhu hulagur,U10,9,Female,JFK,1
+DHW50,Dharwad,Present,Mallikarjun Arawal,4,3,5,5,4,2,1,4,2,5,4,3,5,5,3,2,5,3,3,2,5,3,1,1,4,3,5,4,3,5,4,2,3,2,Timmapur HPS,Mallikarjun Arawal,U12,11,Male,JFK,2
+DHW51,Dharwad,Present,Laxmi Kurishanavar,5,4,3,2,5,5,1,4,4,4,2,5,4,4,2,2,1,4,4,3,4,2,5,5,4,4,3,2,5,4,4,1,4,3,Lokur HPS,Laxmi Kurishanavar,NA,10,Female,MB,1
+DHW52,Dharwad,Present,Netra Bhagavantanavar,4,5,5,4,5,5,1,4,3,4,4,2,4,4,1,3,3,5,4,4,3,2,5,3,4,4,4,3,3,2,4,2,2,2,Lokur HPS,Netra Bhagavantanavar,NA,10,Female,MB,1
+DHW53,Dharwad,Present,Pavan Kundagol,5,3,4,4,1,2,2,5,5,2,4,1,5,4,1,2,2,2,4,4,3,2,2,1,4,2,1,1,2,4,4,4,3,1,Lokur HPS,Pavan Kundagol,NA,10,Male,MB,1
+DHW54,Dharwad,Present,Madhu Narendra,4,3,5,4,5,4,2,3,4,3,5,3,2,5,1,3,5,2,5,5,5,5,5,1,4,4,4,5,1,3,1,4,3,3,Lokur HPS,Madhu Narendra,NA,10,Female,MB,1
+DHW55,Dharwad,Present,Anusuya Chabbi,5,5,5,3,4,3,1,4,2,4,3,4,4,4,1,2,5,4,4,3,4,4,3,2,4,4,2,4,2,4,4,1,2,1,Lokur HPS,Anusuya Chabbi,NA,9,Female,MB,1
+DHW56,Dharwad,Present,Bharamappa Kanakanavar,4,5,4,2,3,2,3,4,5,3,2,3,4,4,1,2,1,1,1,5,2,5,2,1,2,3,5,4,5,4,5,3,5,1,Lokur HPS,Bharamappa Kanakanavar,NA,10,Male,MB,1
+DHW57,Dharwad,Present,Asif Nadaf,4,3,5,4,3,3,3,4,3,2,3,2,5,4,3,2,1,5,5,3,5,5,1,5,3,4,2,5,4,3,2,1,2,5,Lokur HPS,Asif Nadaf,NA,10,Male,MB,1
+DHW58,Dharwad,Present,Manu Dinnimani,2,5,5,5,5,3,4,5,5,5,4,3,4,5,4,4,3,4,3,4,5,4,5,1,4,3,1,3,3,4,4,1,3,1,Lokur HPS,Manu Dinnimani,NA,10,Male,MB,1
+DHW60,Dharwad,Present,Abdulsab Nadaf,2,5,1,4,2,5,5,4,3,5,5,5,5,5,1,2,4,3,4,4,5,4,3,1,2,4,4,4,3,5,4,3,2,1,Lokur HPS,Abdulsab Nadaf,NA,10,Male,MB,1
+PUN01,Pune,Present,Ruchita Manjulkar,5,3,4,3,5,5,1,5,5,3,3,3,5,1,5,1,1,3,4,3,3,2,3,3,5,5,4,3,4,5,4,3,2,5,Sant Tukaram E-Learning School,Ruchita Manjulkar,U10,9,Female,JFK,2
+PUN02,Pune,Present,Chanchal Salvi,3,3,1,3,5,5,4,1,3,5,3,5,5,1,3,1,3,5,1,1,5,5,3,1,3,3,5,3,5,5,3,1,5,3,Sant Tukaram E-Learning School,Chanchal Salvi,U10,9,Female,JFK,2
+PUN03,Pune,Present,Kaveri Rathod,3,4,2,2,4,3,1,5,5,4,3,2,3,1,3,1,1,3,4,1,3,2,3,3,5,5,4,3,5,3,4,1,2,5,Sant Tukaram E-Learning School,Kaveri Rathod,U10,10,Female,JFK,2
+PUN04,Pune,Present,Preeti Rathod,5,3,4,4,5,5,1,5,5,5,4,1,5,1,5,1,1,5,1,1,5,5,3,1,2,5,3,3,5,2,2,3,1,1,Sant Tukaram E-Learning School,Preeti Rathod,U10,9,Female,JFK,2
+PUN05,Pune,Present,Khushi Meena,5,3,3,3,3,5,1,5,5,4,3,2,5,2,5,1,1,3,1,5,3,5,3,1,5,5,5,3,5,5,1,1,5,3,Sant Tukaram E-Learning School,Khushi Meena,U10,12,Female,JFK,2
+PUN06,Pune,Present,Tushar Sonkar,5,3,1,5,5,5,1,5,5,3,5,3,5,5,1,1,5,5,3,1,4,3,4,1,3,4,3,3,3,5,5,3,3,5,Sant Tukaram E-Learning School,Tushar Sonkar,U10,12,Male,JFK,2
+PUN07,Pune,Present,Omkar Pawar,3,2,5,2,3,5,3,4,5,4,2,3,1,5,1,2,4,3,3,1,2,5,3,1,3,5,3,4,3,5,3,3,4,5,Sant Tukaram E-Learning School,Omkar Pawar,U10,11,Male,JFK,2
+PUN08,Pune,Present,Krushna More,3,2,5,2,3,5,3,4,1,4,1,2,1,5,4,2,3,3,3,1,2,5,3,1,3,5,3,4,3,5,3,4,2,5,Sant Tukaram E-Learning School,Krushna More,U10,10,Male,JFK,2
+PUN09,Pune,Present,Rahul Gupta,5,3,4,4,5,5,1,5,5,5,4,4,4,1,4,4,3,3,3,2,1,3,2,3,3,2,4,2,2,4,3,3,5,4,Sant Tukaram E-Learning School,Rahul Gupta,U10,9,Male,JFK,2
+PUN10,Pune,Present,Chinmay Dhawre,5,1,2,3,3,5,3,1,5,1,5,4,5,5,5,5,1,3,4,3,3,2,3,3,1,5,3,4,4,4,5,4,3,3,Sant Tukaram E-Learning School,Chinmay Dhawre,U10,9,Male,JFK,2
+PUN11,Pune,Present,Shrawani Shirke,3,3,3,3,3,3,3,3,5,3,4,4,4,4,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sant Tukaram E-Learning School,Shrawani Shirke,-,8,Female,MB,1
+PUN12,Pune,Present,Lavanya Dodtale,5,3,5,3,5,1,1,1,5,5,5,5,5,5,2,5,1,4,5,3,4,5,2,4,4,5,4,3,4,5,4,4,4,4,Sant Tukaram E-Learning School,Lavanya Dodtale,-,8,Female,MB,1
+PUN13,Pune,Present,Shruti Sawant,4,3,1,5,4,2,1,1,5,5,2,5,3,5,1,2,3,5,4,1,5,4,5,3,2,2,4,3,5,4,5,5,1,3,Sant Tukaram E-Learning School,Shruti Sawant,-,9,Female,MB,1
+PUN15,Pune,Present,Pranita Bhambure,3,3,1,4,4,2,1,3,5,4,2,4,5,5,2,2,3,4,2,2,3,2,1,2,1,5,3,2,3,5,4,1,5,3,Sant Tukaram E-Learning School,Pranita Bhambure,-,11,Female,MB,1
+PUN16,Pune,Present,Govind Nirmal,4,3,4,4,3,2,1,3,4,3,2,2,5,4,2,1,5,4,5,1,4,4,3,1,4,5,3,3,2,5,2,3,3,4,Sant Tukaram E-Learning School,Govind Nirmal,-,9,Male,MB,1
+PUN17,Pune,Present,Hrugved Gaikwad,3,2,2,4,3,2,5,3,4,5,3,2,4,3,2,5,2,4,3,3,5,3,2,4,3,3,5,3,5,3,3,1,5,5,Sant Tukaram E-Learning School,Hrugved Gaikwad,-,9,Male,MB,1
+PUN18,Pune,Present,Rudra Sable,5,5,5,4,5,4,1,3,5,5,5,3,5,5,1,2,5,5,3,1,3,2,3,1,4,3,5,3,4,5,5,3,5,5,Sant Tukaram E-Learning School,Rudra Sable,-,9,Male,MB,1
+PUN20,Pune,Present,Gaurav Unhale,5,5,5,5,5,5,2,4,5,3,4,4,5,3,1,4,3,4,5,3,4,5,3,2,4,4,4,4,3,5,4,1,3,4,Sant Tukaram E-Learning School,Gaurav Unhale,-,11,Male,MB,1
+PUN21,Pune,Present,Mohammad Ayaan Kathewadi,5,3,5,3,3,2,3,5,5,4,5,4,5,5,3,5,5,5,3,5,3,2,3,1,5,5,3,4,5,3,5,3,5,2,Rashmi English Medium School,Mohammad Ayaan Kathewadi,-,9,Male,MB,1
+PUN22,Pune,Present,Lalit Choudhary,4,3,2,5,5,5,3,4,5,5,3,2,4,5,4,2,1,5,4,2,3,4,3,2,4,5,4,3,5,3,5,3,4,2,Rashmi English Medium School,Lalit Choudhary,-,9,Male,MB,1
+PUN23,Pune,Present,Rohan Khirsagar,5,3,5,3,1,2,3,5,5,1,3,2,5,5,1,3,5,3,5,1,3,1,2,3,5,5,3,3,3,4,5,1,1,4,Rashmi English Medium School,Rohan Khirsagar,-,9,Male,MB,1
+PUN24,Pune,Present,Zayed Shaikh,3,3,2,3,2,3,3,2,3,2,2,3,5,5,1,4,3,5,5,2,5,1,1,3,4,2,1,5,3,5,3,5,1,1,Rashmi English Medium School,Zayed Shaikh,-,9,Male,MB,1
+PUN26,Pune,Present,Jahnvi Kadam,5,3,2,3,4,2,1,3,3,4,2,2,1,5,5,3,3,4,3,3,4,3,3,5,3,4,5,3,4,3,4,5,3,3,Rashmi English Medium School,Jahnvi Kadam,-,9,Female,MB,1
+PUN27,Pune,Present,Aleena Shaikh,3,2,3,4,2,4,1,5,5,5,3,4,5,1,3,2,5,5,3,1,3,3,3,1,5,5,3,2,3,1,3,1,3,3,Rashmi English Medium School,Aleena Shaikh,-,9,Female,MB,1
+PUN28,Pune,Present,Jainab Shaikh,5,3,3,2,3,2,1,5,5,1,5,5,5,3,1,3,5,5,3,3,5,3,2,3,5,5,4,5,4,5,5,4,5,3,Rashmi English Medium School,Jainab Shaikh,-,8,Female,MB,1
+PUN29,Pune,Present,Faiza Shaikh,5,5,2,3,3,5,3,3,2,3,3,4,3,5,1,4,2,5,5,3,3,3,3,1,3,5,5,3,5,5,3,1,3,3,Rashmi English Medium School,Faiza Shaikh,-,7,Female,MB,1
+PUN30,Pune,Present,Siddhi Patil,5,3,5,5,5,3,1,3,5,2,4,5,5,5,1,3,4,5,4,5,5,1,3,1,5,5,1,5,5,5,5,1,5,5,Rashmi English Medium School,Siddhi Patil,-,8,Female,MB,1
+PUN31,Pune,Present,Janvi Sadbhaiyya,4,3,2,2,4,4,2,3,4,4,5,3,5,2,2,3,5,4,3,3,2,5,4,2,3,5,3,4,4,2,3,3,1,5,Late V.D.Ghate English Medium School,Janvi Sadbhaiyya,U12,10,Female,JFK,2
+PUN33,Pune,Present,Fizakhatun Tamboli,4,3,3,4,4,3,4,5,5,4,3,4,3,5,4,3,5,4,3,4,5,5,4,2,5,5,5,3,4,2,4,3,1,1,Late V.D.Ghate English Medium School,Fizakhatun Tamboli,U12,10,Female,JFK,2
+PUN34,Pune,Present,Anjali Santosh Waghri,4,3,2,3,4,4,2,3,4,4,4,3,4,2,3,3,2,4,4,2,3,4,3,2,3,5,3,2,3,4,5,3,2,2,Late V.D.Ghate English Medium School,Anjali Santosh Waghri,U12,11,Female,JFK,3
+PUN35,Pune,Present,Khushi Hucche,4,3,2,4,4,2,1,5,5,4,4,4,4,1,1,3,2,5,3,3,5,4,2,3,5,5,5,4,5,4,4,1,3,4,Late V.D.Ghate English Medium School,Khushi Hucche,U12,11,Female,JFK,3
+PUN36,Pune,Present,Ayaz Akthar,5,4,5,5,5,3,1,5,5,4,4,5,3,1,1,3,2,4,3,3,5,3,4,2,4,5,1,5,4,5,5,1,5,5,Late V.D.Ghate English Medium School,Ayaz Akthar,U12,11,Male,JFK,3
+PUN39,Pune,Present,Sanket Sadbhaiyya,5,3,4,5,5,4,2,5,4,4,3,1,4,5,3,4,1,4,3,4,3,5,3,3,4,5,2,4,5,4,5,2,3,3,Late V.D.Ghate English Medium School,Sanket Sadbhaiyya,U12,11,Male,JFK,2
+PUN41,Pune,Present,Rohini Fanekar,3,3,5,4,3,5,1,4,1,1,3,1,5,4,1,3,3,5,4,4,5,3,4,3,1,4,2,3,4,5,3,1,3,1,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Rohini Fanekar,U10,8,Female,JFK,1
+PUN42,Pune,Present,Shreya Gotsure,5,4,3,4,2,1,1,4,5,3,1,3,2,5,1,1,3,5,3,3,5,3,1,3,1,5,1,5,3,2,1,1,2,5,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Shreya Gotsure,U10,8,Female,JFK,1
+PUN43,Pune,Present,Anam Shaikh,4,5,2,5,1,3,4,3,1,5,2,1,1,5,3,1,1,5,4,4,5,5,3,2,3,3,1,3,1,3,2,3,1,3,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Anam Shaikh,U10,7,Female,JFK,1
+PUN44,Pune,Present,Poonamkaur Juni,5,5,4,2,3,3,5,2,2,5,5,5,5,5,3,1,3,5,5,3,5,2,5,5,4,4,1,2,1,2,3,2,1,2,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Poonamkaur Juni,U10,8,Female,JFK,1
+PUN45,Pune,Present,Rohan Waghire,3,3,2,3,3,4,4,4,3,3,3,4,3,3,3,3,4,4,3,3,4,3,3,5,3,4,1,1,1,2,3,4,1,1,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Rohan Waghire,U10,8,Male,JFK,1
+PUN46,Pune,Present,Sohail Dhatre,5,5,3,3,2,3,3,3,3,2,3,2,2,4,2,3,2,4,3,1,4,3,4,3,3,3,5,1,3,1,2,3,1,2,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Sohail Dhatre,U10,8,Male,JFK,1
+PUN47,Pune,Present,Yuvraj Chauhan,2,2,3,2,2,3,4,3,3,2,3,4,3,3,3,3,4,5,5,1,4,3,3,4,4,5,1,3,2,1,3,1,3,3,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Yuvraj Chauhan,U10,8,Male,JFK,1
+PUN48,Pune,Present,Pratik Kamble,4,4,3,4,2,4,2,3,3,3,4,4,2,3,4,4,2,4,5,3,3,3,3,5,3,5,2,3,1,1,3,5,3,2,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Pratik Kamble,U10,8,Male,JFK,1
+PUN49,Pune,Present,Anurag Alhatt,5,5,1,2,3,3,3,4,4,5,3,5,5,3,1,1,1,4,4,3,5,3,4,4,5,5,1,1,1,3,3,1,4,2,PCMC Mahanagarpalika Nigdi 2/2 Marathi Medium School,Anurag Alhatt,U10,8,Male,JFK,1
+PUN50,Pune,Present,Deepak Mukhiya,4,5,3,4,4,3,4,3,5,2,3,4,5,5,4,3,4,3,4,3,4,3,3,2,4,4,3,4,4,2,1,3,2,3,Punyashlok Ahilya Devi Holkar English Medium School,Deepak Mukhiya,U14,13,Male,JFK,3
+PUN51,Pune,Present,Ganesh Meghawat,5,3,2,3,1,2,1,5,4,5,5,4,5,5,5,3,1,1,3,2,3,5,2,1,5,1,2,3,3,5,3,1,3,3,Punyashlok Ahilya Devi Holkar English Medium School,Ganesh Meghawat,U14,12,Male,JFK,2
+PUN52,Pune,Present,Arvind Swami,3,4,5,3,5,3,2,5,3,1,3,5,4,5,3,1,3,3,4,3,5,3,5,3,5,4,3,4,3,5,4,1,3,3,Punyashlok Ahilya Devi Holkar English Medium School,Arvind Swami,U14,12,Male,JFK,NA
+PUN53,Pune,Present,Prem Kewat,3,2,2,3,3,2,2,3,4,3,4,3,4,5,3,4,2,3,2,3,4,3,5,2,3,4,3,2,3,4,4,3,2,3,Punyashlok Ahilya Devi Holkar English Medium School,Prem Kewat,U14,12,Male,JFK,2
+PUN54,Pune,Present,Nagesh Poojari,4,3,2,5,3,2,5,5,5,4,5,4,3,5,5,3,1,5,3,1,5,3,2,1,5,5,5,3,5,5,5,5,5,5,Punyashlok Ahilya Devi Holkar English Medium School,Nagesh Poojari,U14,13,Male,JFK,2
+PUN55,Pune,Present,Lucky Dhakoliya,5,5,3,5,5,4,1,5,5,5,5,5,4,2,5,3,5,4,3,3,5,3,5,5,5,5,5,5,5,5,5,3,5,5,Punyashlok Ahilya Devi Holkar English Medium School,Lucky Dhakoliya,U14,12,Male,JFK,NA
+PUN57,Pune,Present,Sana Ansari,4,3,3,4,5,4,3,4,4,3,3,4,4,4,2,3,4,5,3,2,3,5,5,2,3,5,3,3,5,5,5,1,3,5,Punyashlok Ahilya Devi Holkar English Medium School,Sana Ansari,U14,13,Female,JFK,2
+PUN58,Pune,Present,Harshada Jadhav,4,3,3,4,4,4,3,4,4,4,4,4,5,5,1,3,3,5,3,3,3,5,5,3,5,5,4,5,5,4,5,1,5,3,Punyashlok Ahilya Devi Holkar English Medium School,Harshada Jadhav,U14,12,Female,JFK,2
+PUN59,Pune,Present,Jeevan Kumar,5,5,4,5,5,5,5,4,3,5,5,5,5,5,5,5,3,4,5,2,4,4,4,5,3,5,5,4,5,4,5,3,4,4,Punyashlok Ahilya Devi Holkar English Medium School,Jeevan Kumar,U12,11,Male,JFK,2
+PUN60,Pune,Present,Narendra Rawat,5,3,1,3,2,3,1,5,4,1,3,4,3,3,5,3,2,3,3,2,3,3,3,2,3,2,3,2,3,2,5,5,5,3,Punyashlok Ahilya Devi Holkar English Medium School,Narendra Rawat,U12,12,Male,JFK,1
+PUN61,Pune,Present,Ashish Arya,5,4,5,3,5,2,1,5,5,5,3,5,4,5,3,3,3,5,3,1,5,5,2,1,5,5,5,3,4,1,5,1,5,5,Punyashlok Ahilya Devi Holkar English Medium School,Ashish Arya,U12,11,Male,JFK,2
+PUN62,Pune,Present,Vedant Raut,5,5,3,4,5,5,2,5,4,5,5,4,3,3,2,3,2,5,4,4,3,5,4,1,5,4,5,5,4,3,4,1,4,5,Punyashlok Ahilya Devi Holkar English Medium School,Vedant Raut,U12,11,Male,JFK,1
+PUN63,Pune,Present,Saniya Khirade,3,4,3,4,5,5,2,3,4,3,2,4,5,3,4,3,5,5,4,3,4,5,5,1,4,5,4,1,3,5,5,4,3,5,Punyashlok Ahilya Devi Holkar English Medium School,Saniya Khirade,U12,12,Female,JFK,2
+PUN64,Pune,Present,Hridaya Somvanshi,2,3,2,2,4,3,1,3,5,3,3,1,3,1,3,5,4,5,3,4,4,5,4,3,2,5,3,2,3,1,2,1,5,3,Punyashlok Ahilya Devi Holkar English Medium School,Hridaya Somvanshi,U12,11,Female,JFK,2
+PUN65,Pune,Present,Gayatri Mandle,3,5,2,3,5,5,3,4,5,3,2,3,4,5,3,3,3,3,5,5,3,5,5,4,5,5,3,3,5,5,5,2,3,2,Punyashlok Ahilya Devi Holkar English Medium School,Gayatri Mandle,U12,13,Female,JFK,3
+PUN66,Pune,Present,Bhakti Sanas,5,3,2,4,5,5,3,3,5,3,2,2,5,3,3,3,3,4,4,3,2,5,5,2,3,5,4,4,3,2,2,2,3,4,Punyashlok Ahilya Devi Holkar English Medium School,Bhakti Sanas,U12,12,Female,JFK,3
+PUN67,Pune,Present,Riya Adhav,4,5,2,4,2,3,2,3,2,2,4,4,5,5,4,4,1,4,2,3,4,3,5,1,2,5,2,4,2,3,5,1,3,2,Punyashlok Ahilya Devi Holkar English Medium School,Riya Adhav,U12,12,Female,JFK,2
+PUN68,Pune,Present,Nivrutti Pandurang Rangari,4,3,1,3,3,2,2,4,5,3,5,3,5,1,5,2,2,5,4,3,4,3,4,4,3,4,3,2,3,4,2,1,2,3,Punyashlok Ahilya Devi Holkar English Medium School,Nivrutti Pandurang Rangari,U12,11,Male,JFK,2
+PUN69,Pune,Present,Shekhar Sukale,1,4,3,2,4,5,1,5,2,4,3,5,4,3,1,5,3,5,4,1,4,5,3,1,3,5,3,3,1,5,5,2,3,2,Maharshi Karve Vidyalaya,Shekhar Sukale,U12,11,Male,JFK,1
+PUN70,Pune,Present,Padurang Dhumal,5,3,1,2,4,2,1,5,5,4,4,5,3,2,1,2,4,5,5,3,3,5,3,1,4,5,2,3,3,5,5,1,3,5,Maharshi Karve Vidyalaya,Padurang Dhumal,U12,12,Male,JFK,1
+PUN71,Pune,Present,Prashant Pinge,5,3,3,4,4,2,1,5,4,2,4,1,5,4,3,5,1,5,5,3,3,5,3,4,5,2,2,3,3,3,3,4,2,2,Maharshi Karve Vidyalaya,Prashant Pinge,U12,12,Male,JFK,1
+PUN72,Pune,Present,Shubham Landge,2,5,2,5,4,5,5,2,3,3,5,2,3,2,5,5,4,5,5,1,5,3,3,1,5,5,2,3,2,2,5,4,2,5,Maharshi Karve Vidyalaya,Shubham Landge,U12,11,Male,JFK,1
+PUN73,Pune,Present,Rohan Jadhav,5,5,2,5,4,5,1,5,3,4,3,1,3,1,4,3,1,3,5,3,3,3,5,3,3,5,5,3,3,5,5,1,3,5,Maharshi Karve Vidyalaya,Rohan Jadhav,U12,12,Male,JFK,1
+PUN74,Pune,Present,Sakshi Shinde,3,3,3,5,4,4,1,5,5,4,4,4,4,4,2,4,2,5,5,1,5,5,5,5,4,5,3,3,5,5,5,2,5,3,Maharshi Karve Vidyalaya,Sakshi Shinde,U12,13,Female,JFK,1
+PUN75,Pune,Present,Ratan Wage,5,4,1,5,2,4,1,3,4,3,2,4,3,5,2,1,2,5,5,1,5,5,5,5,4,5,3,3,3,5,5,2,5,3,Maharshi Karve Vidyalaya,Ratan Wage,U12,11,Female,JFK,1
+PUN76,Pune,Present,Sujata Borkade,5,3,3,4,4,2,4,1,5,3,2,5,5,3,1,1,3,5,4,5,5,5,1,3,5,5,2,3,3,5,5,2,3,5,Maharshi Karve Vidyalaya,Sujata Borkade,U12,12,Female,JFK,1
+PUN77,Pune,Present,Rohini Kadam,5,3,3,4,5,2,4,1,5,3,2,5,5,3,1,4,3,5,4,5,5,5,1,3,5,5,2,3,3,3,5,2,2,3,Maharshi Karve Vidyalaya,Rohini Kadam,U12,10,Female,JFK,1
+PUN78,Pune,Present,Vaibhavi Bhosale,5,4,1,5,3,2,1,4,3,2,3,2,4,5,4,2,2,5,5,5,1,5,5,3,5,5,2,2,3,3,5,2,2,3,Maharshi Karve Vidyalaya,Vaibhavi Bhosale,U12,11,Female,JFK,1
+HYD01,Hyderabad,Present,Ramidi Spandana Reddy,3,4,2,4,5,4,2,4,2,3,4,1,3,1,2,3,4,4,3,3,5,3,3,2,2,3,4,3,4,4,5,4,4,3,"Pudami Neighbourhood School, Kondapur",Ramidi Spandana Reddy,U-12,11,Female,JFK,3
+HYD02,Hyderabad,Present,Mohammed Muskan Begum,5,3,2,4,5,2,4,5,3,2,4,5,4,3,2,5,2,4,3,3,5,3,3,2,2,2,4,2,4,4,4,4,4,3,"Pudami Neighbourhood School, Kondapur",Mohammed Muskan Begum,U-12,11,Female,JFK,3
+HYD03,Hyderabad,Present,Ragupathani Rupa Tanya Sri,5,1,1,5,5,1,1,5,5,1,5,3,5,1,1,5,5,4,3,1,3,5,3,3,2,2,4,3,4,4,4,3,4,3,"Pudami Neighbourhood School, Kondapur",Ragupathani Rupa Tanya Sri,U-12,10,Female,JFK,3
+HYD04,Hyderabad,Present,Konidina Bala Sindhu,5,5,1,5,5,1,1,5,5,1,5,5,1,1,1,5,1,4,5,3,5,3,2,1,4,3,3,5,3,5,1,1,4,5,"Pudami Neighbourhood School, Kondapur",Konidina Bala Sindhu,U-12,11,Female,JFK,3
+HYD05,Hyderabad,Present,Bushra Mahin,4,4,3,4,5,4,2,3,3,3,3,4,4,4,3,3,3,4,3,3,5,5,3,2,2,2,4,3,4,4,4,3,4,3,"Pudami Neighbourhood School, Kondapur",Bushra Mahin,U-12,12,Female,JFK,3
+HYD06,Hyderabad,Present,Mohammed Rizwan,5,3,5,5,5,5,2,5,5,5,3,5,5,4,2,5,2,2,1,3,5,3,2,2,5,5,4,1,5,5,5,4,3,1,"Pudami Neighbourhood School, Kondapur",Mohammed Rizwan,U-12,11,Male,JFK,3
+HYD07,Hyderabad,Present,Devansh Salunke,4,3,2,3,5,5,1,4,4,5,3,3,4,5,1,2,3,4,2,5,4,5,5,2,4,5,4,3,4,3,4,1,5,3,"Pudami Neighbourhood School, Kondapur",Devansh Salunke,U-12,11,Male,JFK,3
+HYD08,Hyderabad,Present,Mohammed Tauqeerudin,5,3,4,2,4,3,2,4,5,4,3,2,3,1,3,4,3,2,3,3,4,5,4,2,4,5,5,4,5,4,3,4,4,3,"Pudami Neighbourhood School, Kondapur",Mohammed Tauqeerudin,U-12,12,Male,JFK,3
+HYD10,Hyderabad,Present,Shaik Rehan Ali,4,2,3,3,5,3,4,4,5,2,4,3,5,2,4,3,2,4,4,5,5,4,3,4,5,4,3,3,4,3,2,3,3,1,"Pudami Neighbourhood School, Kondapur",Shaik Rehan Ali,U-12,11,Male,JFK,3
+HYD11,Hyderabad,Present,Apsara Sharma,4,3,2,4,5,4,4,3,5,2,3,4,2,1,3,4,3,4,3,4,5,4,4,2,4,3,5,3,4,5,2,3,2,4,Government High School NBT Nagar,Apsara Sharma,U-14,14,Female,JFK,2
+HYD12,Hyderabad,Present,Madgani Bhuvaneshwari,4,3,2,5,3,4,4,2,4,2,4,2,2,2,3,4,3,4,3,3,3,4,3,3,4,4,4,4,3,2,4,2,5,3,Government High School NBT Nagar,Madgani Bhuvaneshwari,U-14,13,Female,JFK,4
+HYD15,Hyderabad,Present,Channa Mounika,4,5,3,2,4,3,3,4,3,4,4,5,4,5,3,2,3,4,5,4,3,4,4,4,5,4,3,5,5,4,5,3,3,2,Government High School NBT Nagar,Channa Mounika,U-14,13,Female,JFK,4
+HYD16,Hyderabad,Present,Kantam Pavan Kumar,3,4,5,5,4,3,1,5,4,3,2,5,3,2,3,1,3,3,3,2,4,5,5,1,4,3,3,4,5,3,5,5,3,1,Government High School NBT Nagar,Kantam Pavan Kumar,U-14,13,Male,JFK,2
+HYD17,Hyderabad,Present,Banny Mahesh,3,4,3,3,4,3,4,5,3,2,4,5,3,5,5,2,3,4,4,5,4,3,2,3,3,5,4,3,4,3,3,4,4,3,Government High School NBT Nagar,Banny Mahesh,U-14,14,Male,JFK,1
+HYD18,Hyderabad,Present,Shailesh Sharma,4,4,2,3,4,4,3,4,5,4,3,3,2,2,2,3,3,4,3,2,5,4,4,4,4,5,3,4,2,4,1,2,4,3,Government High School NBT Nagar,Shailesh Sharma,U-14,13,Male,JFK,4
+HYD19,Hyderabad,Present,Pasupula Karthik,3,4,2,2,3,3,2,4,3,4,5,4,4,3,3,3,4,4,5,5,4,3,2,3,5,5,4,3,3,5,4,4,3,5,Government High School NBT Nagar,Pasupula Karthik,U-14,13,Male,JFK,4
+HYD20,Hyderabad,Present,Mohammed Ghouse Pasha,4,5,3,1,3,5,2,5,5,5,3,5,4,1,3,2,4,4,5,4,5,5,5,1,5,5,4,4,4,5,5,1,1,5,Government High School NBT Nagar,Mohammed Ghouse Pasha,U-14,13,Male,JFK,4
+HYD21,Hyderabad,Present,Vaghmare Shirisha,5,5,3,4,3,1,1,3,2,2,3,5,3,1,1,5,1,5,5,4,5,1,3,4,3,4,3,5,3,5,4,4,4,2,"Governement Primary and High School, Kulsumpura",Vaghmare Shirisha,U-10,10,Female,JFK,1
+HYD24,Hyderabad,Present,Munradi Kavya,3,5,1,4,3,1,5,3,1,2,3,5,3,1,1,5,1,5,5,5,5,5,5,3,4,5,4,2,3,2,3,4,5,5,"Governement Primary and High School, Kulsumpura",Munradi Kavya,U-10,8,Female,JFK,1
+HYD25,Hyderabad,Present,Banoth Anusha,5,4,2,1,3,4,1,3,4,1,3,1,3,1,3,4,1,5,5,5,5,3,5,5,5,5,4,5,3,5,5,4,5,3,"Governement Primary and High School, Kulsumpura",Banoth Anusha,U-10,9,Female,JFK,1
+HYD26,Hyderabad,Present,E. Daksh,5,3,1,3,3,4,1,3,3,1,3,5,4,1,1,1,4,5,4,3,5,1,3,1,3,3,3,5,5,2,5,4,1,5,"Governement Primary and High School, Kulsumpura",E. Daksh,U-10,8,Male,JFK,1
+HYD27,Hyderabad,Present,Mittu Kishore,5,3,1,3,3,1,1,3,3,3,3,3,1,3,3,1,3,5,5,3,5,5,5,1,4,5,5,1,4,1,5,4,1,3,"Governement Primary and High School, Kulsumpura",Mittu Kishore,U-10,9,Male,JFK,1
+HYD29,Hyderabad,Present,Naga Allisha,5,5,4,3,3,1,3,3,3,3,3,5,2,1,5,1,1,5,5,3,5,2,4,4,5,5,4,5,1,5,3,4,4,5,"Governement Primary and High School, Kulsumpura",Naga Allisha,U-10,9,Male,JFK,1
+HYD30,Hyderabad,Present,Syed Kazam,5,3,1,3,3,1,1,3,3,3,3,3,1,3,3,1,3,5,4,1,5,1,1,2,3,2,2,5,2,2,5,4,1,3,"Governement Primary and High School, Kulsumpura",Syed Kazam,U-10,9,Male,JFK,1
+HYD31,Hyderabad,Present,Pampana Devi Hari Nandini,5,4,5,4,4,4,1,5,4,3,4,4,4,2,1,2,4,4,5,2,5,4,5,1,3,4,3,4,5,3,2,1,2,2,Khushbow Vidya Nikethan School,Pampana Devi Hari Nandini,U-12,12,Female,JFK,2
+HYD32,Hyderabad,Present,Kandula Rishitha Devi,5,3,3,4,5,4,2,3,5,4,3,3,3,1,2,4,3,4,3,2,2,4,5,2,1,5,4,3,2,3,2,1,3,2,Khushbow Vidya Nikethan School,Kandula Rishitha Devi,U-12,12,Female,JFK,2
+HYD34,Hyderabad,Present,Vantala Ramesh,5,5,4,5,4,4,2,4,5,4,3,3,4,3,2,4,4,4,3,1,2,2,4,2,1,5,4,2,2,3,5,2,5,2,Khushbow Vidya Nikethan School,Vantala Ramesh,U-12,12,Male,JFK,2
+HYD35,Hyderabad,Present,Mannu Kumar,3,5,3,2,3,3,3,3,4,4,3,3,3,1,4,3,4,4,4,2,1,5,4,3,4,5,5,4,5,4,3,5,3,3,Khushbow Vidya Nikethan School,Mannu Kumar,U-12,12,Male,JFK,2
+HYD36,Hyderabad,Present,Nikhil Yadav,4,5,2,4,4,4,5,5,5,4,4,3,2,5,2,4,4,4,3,2,3,4,5,3,4,5,4,3,4,4,5,4,3,2,Khushbow Vidya Nikethan School,Nikhil Yadav,U-12,12,Male,JFK,2
+HYD37,Hyderabad,Present,Gokula Praneeth Kumar Goud,5,3,4,5,4,5,2,4,5,3,4,4,2,3,4,3,4,3,3,2,5,3,5,3,2,5,4,4,3,4,5,2,3,1,Khushbow Vidya Nikethan School,Gokula Praneeth Kumar Goud,U-12,12,Male,JFK,2
+BGL01,Bangalore,Present,Deekshith P Santosh,5,4,2,3,5,4,1,5,3,5,3,2,4,5,3,1,4,4,5,3,2,5,3,4,4,3,2,4,5,4,5,2,3,2,KK English School,Deekshith P Santosh,U14,12,Male,JFK,2
+BGL02,Bangalore,Present,Dilruba Khatun,4,2,3,2,4,3,2,3,2,4,3,2,4,4,5,1,4,3,2,2,2,4,3,3,2,2,4,2,3,3,4,4,1,4,KK English School,Dilruba Khatun,U14,13,Female,JFK,2
+BGL03,Bangalore,Present,Abhidhamma Bhod,5,3,3,5,5,4,2,3,5,4,3,2,1,5,5,3,2,3,4,2,5,4,3,3,4,5,4,5,3,4,5,2,5,2,KK English School,Abhidhamma Bhod,U14,11,Male,JFK,2
+BGL04,Bangalore,Present,Santosh S Govindappa,4,3,4,5,5,3,2,5,3,4,5,3,2,3,4,3,2,5,4,2,4,5,3,3,5,4,5,2,4,3,5,3,2,4,KK English School,Santosh S Govindappa,U14,12,Male,JFK,3
+BGL05,Bangalore,Present,Bhoomika Mahantesh,4,5,5,2,4,5,3,5,5,3,3,4,5,3,2,1,4,4,4,3,2,3,3,3,4,4,3,3,4,3,3,4,2,3,KK English School,Bhoomika Mahantesh,U14,12,Female,JFK,3
+BGL06,Bangalore,Present,Shiva Kumar Nishad,5,2,1,4,3,2,1,4,5,3,3,4,2,2,3,4,4,5,5,2,4,4,2,3,5,5,3,3,5,3,2,3,3,3,KK English School,Shiva Kumar Nishad,U14,9,Male,JFK,3
+BGL07,Bangalore,Present,Deepak Gurang,5,3,4,2,5,4,4,3,4,5,2,2,4,4,3,3,3,3,4,2,2,4,4,2,3,4,5,2,2,4,3,4,3,4,KK English School,Deepak Gurang,U14,12,Male,JFK,1
+BGL08,Bangalore,Present,Sripriya Somashekar,4,5,5,3,5,4,5,5,5,5,4,5,3,5,4,4,2,3,3,4,5,3,4,5,1,4,2,2,5,2,1,4,3,1,KK English School,Sripriya Somashekar,U14,12,Female,JFK,2
+BGL09,Bangalore,Present,Bhavani Munikrishna,4,4,3,5,5,4,5,4,5,4,3,4,3,4,4,3,2,4,4,4,5,5,4,3,5,4,4,3,4,4,4,3,3,2,KK English School,Bhavani Munikrishna,U14,11,Female,JFK,2
+BGL10,Bangalore,Present,Nischay Kumar,5,4,2,5,5,2,2,5,4,4,3,2,4,4,4,3,3,5,4,2,3,5,2,2,4,4,5,3,4,5,5,3,3,4,KK English School,Nischay Kumar,U14,12,Male,JFK,1
+BGL11,Bangalore,Present,Vishwanath Shivaraj R,5,3,2,3,3,3,1,5,5,3,3,5,5,5,3,3,5,5,4,4,5,3,4,3,1,5,5,4,5,5,5,1,2,2,St.Joseph's Convent School,Vishwanath Shivaraj R,U10,10,Male,JFK,1
+BGL12,Bangalore,Present,Shiva Mani Subramani,3,4,5,4,3,2,3,4,5,2,5,3,2,4,2,3,5,5,4,3,2,1,2,3,4,5,4,3,2,1,2,3,4,1,St.Joseph's Convent School,Shiva Mani Subramani,U10,10,Male,JFK,1
+BGL13,Bangalore,Present,Sujatha Yesuraj,5,3,4,3,5,2,4,5,3,1,3,1,2,5,1,1,3,3,2,4,3,1,3,4,5,3,4,3,2,1,3,3,1,3,St.Joseph's Convent School,Sujatha Yesuraj,U10,9,Female,JFK,1
+BGL14,Bangalore,Present,Rashmi Chinnappa,3,5,3,3,4,3,1,5,5,1,3,3,5,2,4,5,1,5,3,2,3,1,1,2,1,1,4,3,2,1,3,1,1,1,St.Joseph's Convent School,Rashmi Chinnappa,U10,9,Female,JFK,1
+BGL15,Bangalore,Present,Aisha M,5,5,3,5,3,3,1,4,3,3,4,3,3,5,5,5,3,4,4,3,5,2,2,2,5,4,3,4,2,5,3,4,3,4,St.Joseph's Convent School,Aisha M,U10,10,Female,JFK,2
+BGL16,Bangalore,Present,Fardeen Rizwan,5,4,3,5,2,5,1,4,3,3,3,5,3,3,3,3,3,4,3,5,5,3,2,5,5,4,5,4,3,2,5,5,1,5,St.Joseph's Convent School,Fardeen Rizwan,U10,11,Male,JFK,2
+BGL17,Bangalore,Present,Surya Velu,4,3,5,3,2,4,3,5,2,4,2,5,3,1,4,2,3,4,4,2,5,1,1,4,1,3,5,2,3,1,1,1,4,1,St.Joseph's Convent School,Surya Velu,U10,11,Male,JFK,2
+BGL18,Bangalore,Present,Sharath Prabhu,4,3,1,5,4,3,3,4,3,4,2,3,3,4,4,3,3,5,1,2,2,2,5,2,5,5,4,3,1,2,5,1,2,1,St.Joseph's Convent School,Sharath Prabhu,U10,9,Male,JFK,2
+BGL19,Bangalore,Present,Keerthana B Nagayya,4,3,3,4,5,4,3,1,4,5,4,5,4,3,4,5,4,5,4,5,4,5,1,1,5,5,4,4,4,5,4,5,4,4,St.Joseph's Convent School,Keerthana B Nagayya,U10,10,Female,JFK,1
+BGL30,Bangalore,Present,Harsha Narayanaswami,5,3,3,2,4,4,3,3,5,4,4,3,3,2,3,3,2,3,4,3,4,3,2,2,4,5,4,4,2,5,5,3,4,3,"Government Higher Primary School, Medahalli",Harsha Narayanaswami,U12,11,Male,JFK,1
+BGL32,Bangalore,Present,Thulasi Nagaraja,5,4,2,4,4,3,5,4,2,5,4,5,5,5,4,3,4,4,5,3,4,2,4,1,4,5,4,5,4,5,5,3,4,3,"Government Higher Primary School, Medahalli",Thulasi Nagaraja,U12,11,Female,JFK,1
+BGL33,Bangalore,Present,Dhanalakshmi Narasappa,2,3,2,4,2,3,4,2,1,5,2,3,5,3,4,2,3,4,4,4,5,2,2,3,2,3,3,2,1,5,5,4,2,3,"Government Higher Primary School, Medahalli",Dhanalakshmi Narasappa,U12,12,Female,JFK,1
+BGL34,Bangalore,Present,David Balaji,5,3,1,3,5,3,1,2,4,3,4,1,1,1,5,4,5,4,5,2,4,5,3,2,4,5,2,3,4,4,2,1,2,1,"Government Higher Primary School, Medahalli",David Balaji,U12,12,Male,JFK,1
+BGL35,Bangalore,Present,Hipza Kouser,5,3,2,4,3,2,3,3,4,3,2,4,4,5,3,2,4,4,3,1,5,4,5,3,5,4,2,3,2,4,5,5,4,5,"Government Higher Primary School, Medahalli",Hipza Kouser,U12,10,Female,JFK,1
+BGL38,Bangalore,Present,Tejashwini. N,3,5,2,3,4,5,3,2,3,4,4,1,3,3,3,2,3,3,4,3,4,4,3,2,2,5,3,2,1,3,3,1,3,3,"Government Higher Primary School, Medahalli",Tejashwini. N,U12,11,Female,JFK,1
+BGL39,Bangalore,Present,Vanita Somappa,5,2,3,5,3,2,3,1,5,4,3,3,4,2,5,1,3,4,4,2,3,4,3,2,3,4,3,3,4,4,5,2,4,3,"Government Higher Primary School, Medahalli",Vanita Somappa,U10,10,Female,JFK,1
+BGL40,Bangalore,Present,Chakali Nandini Manikyappa,5,5,2,5,5,1,5,5,5,5,1,5,5,5,5,5,5,4,4,4,5,5,5,2,5,4,5,4,5,4,5,4,5,5,"Government Higher Primary School, Medahalli",Chakali Nandini Manikyappa,U10,10,Female,JFK,1
+BGL41,Bangalore,Present,Syed Imran,5,4,1,5,5,5,4,5,5,5,4,5,4,5,3,5,3,5,4,3,5,2,3,5,1,5,2,5,4,3,5,2,4,3,"Government Higher Primary School, Medahalli",Syed Imran,U10,10,Male,JFK,1
+BGL42,Bangalore,Present,Chaitra Ravi,4,4,3,4,5,3,2,5,4,4,4,3,4,3,5,4,3,3,4,2,4,3,4,2,3,4,4,3,4,4,4,2,4,2,"Government Higher Primary School, Medahalli",Chaitra Ravi,U10,12,Female,JFK,1
+BGL43,Bangalore,Present,Prakruti Mohan Kumar,5,4,2,5,5,2,5,5,5,5,1,5,3,5,5,5,5,2,3,3,4,4,3,2,3,4,3,4,4,5,5,3,4,2,"Government Higher Primary School, Medahalli",Prakruti Mohan Kumar,U10,8,Female,JFK,1
+BGL44,Bangalore,Present,Surendra Ramachandra,5,5,1,5,5,4,4,5,5,3,4,5,5,4,5,5,4,5,2,3,3,2,2,2,4,5,2,5,1,2,2,2,5,1,"Government Higher Primary School, Medahalli",Surendra Ramachandra,U10,10,Male,JFK,1
+BGL45,Bangalore,Present,Mallappa Shivappa,3,4,4,5,5,3,4,4,5,5,4,5,5,2,3,5,3,5,3,1,1,2,2,2,5,5,2,3,1,2,2,2,2,1,"Government Higher Primary School, Medahalli",Mallappa Shivappa,U10,11,Male,JFK,1
+BGL46,Bangalore,Present,Lakshmi Tejas,5,5,1,5,5,3,1,5,5,5,5,5,5,3,1,3,5,5,2,1,2,2,2,1,5,5,2,3,1,2,2,2,1,5,"Government Higher Primary School, Medahalli",Lakshmi Tejas,U10,10,Male,JFK,1
+BGL47,Bangalore,Present,Gavireddy Akash Reddy,4,3,2,5,4,5,3,4,5,5,4,5,3,2,4,5,3,4,3,3,5,4,3,1,4,5,3,4,3,5,5,1,5,5,"Government Higher Primary School, Medahalli",Gavireddy Akash Reddy,U10,10,Male,JFK,1
+BGL48,Bangalore,Present,Naseeba Abdul Rafi,5,4,1,5,5,3,2,5,5,5,5,5,4,3,4,5,3,2,4,1,3,4,2,1,5,5,2,2,5,1,5,5,1,5,"Government Higher Primary School, Medahalli",Naseeba Abdul Rafi,U10,10,Female,JFK,1
+CHN01,Chennai,Present,G.Hemalatha,5,3,4,1,3,5,4,1,2,3,1,3,3,5,4,1,4,3,4,1,2,2,1,3,4,5,3,1,5,3,4,3,1,1,CMS MGR Nagar,G.Hemalatha,U12,10,Female,JFK,0
+CHN03,Chennai,Present,R.Danalakshmi,5,4,2,3,3,4,2,4,4,4,3,2,3,4,3,3,2,3,5,4,2,4,2,1,3,5,3,5,4,5,4,3,2,4,CMS MGR Nagar,R.Danalakshmi,U12,11,Female,JFK,0
+CHN04,Chennai,Present,R.Naveen Kumar,5,5,2,5,2,2,2,3,5,3,5,5,3,3,2,2,3,5,4,4,5,3,3,2,3,5,3,5,3,3,4,2,1,3,CMS MGR Nagar,R.Naveen Kumar,U12,11,Male,JFK,0
+CHN05,Chennai,Present,K.Kaviya,5,3,3,3,5,5,3,3,5,5,3,3,3,5,1,5,5,4,1,2,5,5,5,1,5,5,5,5,5,5,5,1,1,1,CMS MGR Nagar,K.Kaviya,U12,11,Female,JFK,0
+CHN06,Chennai,Present,G.Chitra,3,4,3,2,5,3,3,4,5,4,2,3,2,1,1,2,5,5,4,5,1,3,3,1,5,4,2,2,1,5,4,1,3,1,CMS MGR Nagar,G.Chitra,U12,11,Female,JFK,0
+CHN07,Chennai,Present,Devipriya.S,5,4,3,4,3,5,3,5,5,4,3,4,4,3,2,3,4,5,5,3,4,5,4,3,4,5,3,3,4,5,3,2,3,2,CMS MGR Nagar,Devipriya.S,U12,11,Female,JFK,0
+CHN08,Chennai,Present,J.Kathirvel,5,5,2,5,3,5,1,5,3,4,4,3,5,4,4,4,1,5,5,4,5,4,5,1,5,5,3,4,2,5,5,4,5,1,CMS MGR Nagar,J.Kathirvel,U12,11,Male,JFK,0
+CHN10,Chennai,Present,Tamil Nilavan Ramdas,3,3,4,4,3,5,1,4,5,4,3,4,5,4,3,4,5,5,4,1,3,3,3,2,3,5,4,5,3,3,2,3,2,3,CHS Kannamapet,Tamil Nilavan Ramdas,U10,10,Male,JFK,1
+CHN11,Chennai,Present,Kowshik Kumaresan,3,5,3,3,3,5,3,5,4,2,3,5,4,3,5,3,1,4,5,5,4,5,3,5,5,5,4,5,5,5,5,1,5,1,CHS Kannamapet,Kowshik Kumaresan,U10,9,Male,JFK,0
+CHN12,Chennai,Present,Fasiha Razulmaideen,4,3,2,4,5,3,2,4,5,5,3,4,5,5,3,2,4,4,3,2,3,3,3,3,2,3,3,4,3,4,3,2,3,4,CHS Kannamapet,Fasiha Razulmaideen,U10,10,Female,JFK,1
+CHN13,Chennai,Present,Tamilarasi Raja,4,4,5,4,4,4,1,4,5,5,3,3,5,3,2,3,4,4,4,4,5,5,3,2,3,5,5,5,4,4,5,2,2,5,CHS Kannamapet,Tamilarasi Raja,U10,10,Female,JFK,1
+CHN14,Chennai,Present,Swetha Rajasekhar,4,3,2,5,3,4,2,4,5,5,3,4,5,5,3,3,3,5,3,2,4,3,2,4,5,3,4,3,4,5,3,1,5,3,CHS Kannamapet,Swetha Rajasekhar,U10,10,Female,JFK,1
+CHN15,Chennai,Present,Kalpana Easwaran,4,4,2,4,2,2,2,4,5,2,4,4,5,2,2,2,2,5,3,2,3,2,2,3,2,3,2,4,3,5,4,2,2,4,CHS Kannamapet,Kalpana Easwaran,U10,10,Female,JFK,1
+CHN16,Chennai,Present,K.Yogalakshmi,5,2,2,2,4,3,2,2,5,2,3,1,4,2,2,2,3,5,4,2,1,2,2,2,3,2,2,2,3,2,4,2,2,2,CHS Kannamapet,K.Lakshmi,U10,10,Female,JFK,1
+CHN17,Chennai,Present,Ranjith Kumar Mari,3,4,1,5,3,2,3,4,2,4,5,4,3,4,3,5,3,3,4,1,3,2,2,4,3,3,5,5,4,3,5,2,5,2,CHS Kannamapet,Ranjith Kumar Mari,U10,10,Male,JFK,0
+CHN18,Chennai,Present,Aishwarya Easwaran,5,5,3,4,2,1,2,5,3,4,5,5,5,4,5,5,3,5,4,5,5,4,2,3,4,4,5,5,4,5,5,5,5,2,CHS Kannamapet,Aishwarya Easwaran,U10,10,Female,JFK,0
+CHN19,Chennai,Present,Kaviarasan Karthick,5,5,2,5,2,1,1,4,5,3,3,4,5,5,5,1,5,5,5,1,5,3,1,3,4,5,4,5,5,5,5,5,4,1,CHS Kannamapet,Kaviarasan Karthick,U10,9,Male,JFK,1
+MUM02,Mumbai,Present,Shafiq Khan,3,2,1,5,4,3,4,3,5,2,3,2,1,3,5,2,4,5,3,1,4,2,3,1,3,5,2,3,4,5,3,2,4,1,Dharavi Transit Camp,Shafiq Khan,U10,9,Male,JFK,2
+MUM03,Mumbai,Present,Taufiq Shaikh,3,4,1,4,3,4,3,4,4,5,3,2,3,2,3,1,2,5,3,2,4,5,3,2,5,5,4,5,4,4,2,5,4,3,Dharavi Transit Camp,Taufiq Shaikh,U10,9,Male,JFK,2
+MUM04,Mumbai,Present,Misba A Khan,5,2,1,4,5,4,2,4,3,4,3,5,4,1,5,1,4,5,4,3,2,2,5,2,3,5,4,3,3,4,5,5,2,5,Dharavi Transit Camp,Misba A Khan,U10,9,Female,JFK,2
+MUM05,Mumbai,Present,Raj Shama,5,2,1,4,3,4,2,5,4,5,3,4,2,3,4,2,2,5,1,3,4,5,3,1,5,5,5,4,5,3,3,5,3,1,Dharavi Transit Camp,Raj Shama,U10,9,Male,JFK,2
+MUM06,Mumbai,Present,Muskan Bano Ansari,3,3,1,4,5,5,2,3,2,5,3,5,3,2,5,1,3,5,1,3,3,5,5,3,5,3,4,3,4,5,3,5,1,4,Dharavi Transit Camp,Muskan Bano Ansari,U10,9,Female,JFK,2
+MUM07,Mumbai,Present,Nitin Patwa,4,4,3,4,3,4,2,3,3,4,3,4,5,5,5,2,2,4,3,4,5,5,4,3,5,4,4,3,4,4,3,2,2,3,Dharavi Transit Camp,Nitin Patwa,U10,8,Male,JFK,2
+MUM08,Mumbai,Present,Julnurain Shaikh,4,3,2,5,3,4,3,4,5,4,5,5,2,2,2,2,4,4,3,2,4,3,4,2,2,4,4,3,4,5,5,4,1,2,Dharavi Transit Camp,Julnurain Shaikh,U12,9,Male,JFK,1
+MUM09,Mumbai,Present,Ankita Vishwakarma,3,1,1,3,4,2,1,5,3,3,5,5,4,1,5,1,4,5,3,4,2,4,3,1,5,5,3,5,4,5,1,1,1,5,Dharavi Transit Camp,Ankita Vishwakarma,U10,9,Female,JFK,2
+MUM10,Mumbai,Present,Sakib Ansari,5,4,1,4,5,3,2,3,5,4,4,3,5,2,4,3,5,5,3,5,2,5,3,3,5,3,5,3,5,5,1,5,1,4,Dharavi Transit Camp,Sakib Ansari,U10,9,Male,JFK,2
+MUM11,Mumbai,Present,Priyanka Gupta,5,3,2,4,2,3,2,2,3,4,2,5,4,1,5,1,4,4,3,3,5,3,5,3,5,5,4,2,2,3,1,2,2,2,Dharavi Transit Camp,Priyanka Gupta,U10,9,Female,JFK,2
+MUM12,Mumbai,Present,Nandini Malsank,5,3,1,3,2,4,5,1,4,3,2,2,5,5,5,3,5,4,1,3,3,5,4,2,3,4,3,5,3,5,1,3,1,2,Dharavi Transit Camp,Nandini Malsank,U10,9,Female,JFK,2
+MUM13,Mumbai,Present,Vipin Patwa,4,4,3,4,4,5,3,2,4,3,2,3,2,4,3,5,2,4,3,2,3,4,2,4,4,5,4,3,4,3,4,2,5,1,Dharavi Transit Camp,Vipin Patwa,U12,10,Male,JFK,1
+MUM14,Mumbai,Present,Adiba Shaikh,5,5,1,5,3,5,5,4,5,5,2,2,4,3,2,5,2,3,1,1,3,3,4,2,3,5,3,3,2,3,2,4,2,4,Dharavi Transit Camp,Adiba Shaikh,U12,8,Female,JFK,1
+MUM15,Mumbai,Present,Raunak Gupta,4,5,1,2,5,2,2,2,3,2,5,2,3,2,3,3,3,4,3,2,2,2,3,1,5,3,3,5,2,2,1,2,3,2,Dharavi Transit Camp,Raunak Gupta,U12,10,Male,JFK,1
+MUM16,Mumbai,Present,Varsha Gupta,5,2,5,5,5,5,2,1,5,4,4,3,5,3,3,3,1,5,3,4,3,2,1,1,3,5,3,3,1,4,2,1,4,3,Dharavi Transit Camp,Varsha Gupta,U12,10,Female,JFK,1
+MUM17,Mumbai,Present,Faizan Sayyed,5,3,4,2,4,3,2,3,5,4,5,5,4,1,2,2,4,5,4,3,2,3,2,3,5,4,3,2,4,5,1,3,4,3,Dharavi Transit Camp,Faizan Sayyed,U12,10,Male,JFK,2
+MUM18,Mumbai,Present,Umar Shaikh,5,4,2,4,1,3,2,5,5,4,4,3,2,5,5,1,5,3,4,2,3,2,2,5,5,1,3,1,2,3,1,4,3,1,Dharavi Transit Camp,Umar Shaikh,U12,10,Male,JFK,2
+MUM19,Mumbai,Present,Tabish Shaikh,5,5,2,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,4,2,3,2,2,5,5,5,2,3,4,3,5,2,1,2,Dharavi Transit Camp,Tabish Shaikh,U12,11,Male,JFK,1
+MUM20,Mumbai,Present,Mehrab Shaikh,3,1,2,4,3,2,2,5,5,5,3,2,3,4,4,1,1,4,1,1,2,4,3,2,5,4,3,2,4,4,1,1,1,1,Dharavi Transit Camp,Mehrab Shaikh,U12,11,Female,JFK,1
+MUM21,Mumbai,Present,Umme Habiba Shaikh,5,3,2,4,3,4,2,5,5,3,4,4,3,4,2,2,1,3,2,3,3,2,2,2,5,5,2,3,3,2,1,2,2,2,Dharavi Transit Camp,Umme Habiba Shaikh,U12,10,Female,JFK,1
+MUM22,Mumbai,Present,Asif Ansari,3,4,3,5,5,5,2,4,5,5,5,5,5,5,4,5,5,5,3,1,2,4,2,1,5,5,3,3,3,3,5,5,1,2,Dharavi Transit Camp,Asif Ansari,U12,11,Male,JFK,1
+MUM23,Mumbai,Present,Kashish Sharma,5,3,1,5,5,5,1,5,5,5,3,4,3,1,1,4,1,5,3,4,3,3,5,1,5,5,5,4,2,5,2,1,2,5,Khernagar MPS,Kashish Sharma,U12,12,Female,JFK,2
+MUM25,Mumbai,Present,Pooja Giri,4,3,5,3,4,3,4,2,5,3,4,3,3,4,2,2,3,4,3,3,3,2,3,4,4,3,2,3,2,5,4,5,2,1,Khernagar MPS,Pooja Giri,U12,12,Female,JFK,2
+MUM26,Mumbai,Present,Muzaffer Mansoori,3,3,1,5,3,3,1,4,4,4,5,5,1,3,1,3,1,3,4,3,4,3,5,2,4,5,4,3,3,5,5,4,4,1,Khernagar MPS,Muzaffer Mansoori,U12,12,Male,JFK,2
+MUM27,Mumbai,Present,Ayan Shaikh,5,5,3,3,2,4,1,5,4,5,5,4,5,5,1,2,4,3,4,5,3,2,1,2,5,2,4,4,3,5,4,1,2,4,Khernagar MPS,Ayan Shaikh,U12,12,Male,JFK,2
+MUM29,Mumbai,Present,Lokesh Kori,5,3,5,3,5,4,5,4,5,3,4,4,5,4,1,1,5,5,3,4,5,3,5,1,5,2,5,4,3,3,1,1,2,4,Khernagar MPS,Lokesh Kori,U12,12,Male,JFK,2
+MUM30,Mumbai,Present,Mitesh K. Singh,3,3,2,4,5,3,2,5,1,3,2,4,4,4,3,2,3,4,3,4,2,3,2,4,5,3,2,3,3,5,4,2,4,3,Marwari Vidyalaya,Mitesh K. Singh,U12,12,Male,JFK,1
+MUM32,Mumbai,Present,Shrawan Singh,5,4,3,5,5,3,3,4,5,3,2,4,5,4,3,2,4,5,3,2,5,5,2,2,5,5,4,3,5,5,5,1,2,5,Marwari Vidyalaya,Shrawan Singh,U12,12,Male,JFK,1
+MUM33,Mumbai,Present,Shabhan Shaikh,3,2,1,4,5,2,4,3,5,4,1,5,1,4,1,2,5,2,5,3,1,5,5,3,5,4,2,5,4,1,5,4,4,1,Marwari Vidyalaya,Shabhan Shaikh,U12,12,Male,JFK,1
+MUM34,Mumbai,Present,Sanskar Upadhgay,2,3,4,1,5,5,1,5,5,5,2,2,1,1,3,5,1,3,2,2,1,5,3,1,5,5,5,2,2,5,1,5,2,4,Marwari Vidyalaya,Sanskar Upadhgay,U12,12,Male,JFK,1
+MUM36,Mumbai,Present,Nirmala Mali,5,3,3,3,5,5,1,5,5,5,3,5,5,3,5,3,2,5,3,2,5,3,3,2,5,5,2,3,5,2,2,1,1,3,Marwari Vidyalaya,Nirmala Mali,U12,10,Female,JFK,1
+MUM37,Mumbai,Present,Daisy Maurya,5,4,3,5,4,2,3,5,4,4,3,4,1,3,3,5,5,4,3,3,5,3,2,1,5,3,2,2,3,2,2,2,4,5,Marwari Vidyalaya,Daisy Maurya,U12,10,Female,JFK,1
+MUM38,Mumbai,Present,Yogita Joshi,5,4,1,5,5,5,5,5,5,5,5,5,5,5,5,3,3,3,2,5,5,5,2,1,5,5,5,4,5,5,3,1,1,2,Marwari Vidyalaya,Yogita Joshi,U12,11,Female,JFK,1
+MUM39,Mumbai,Present,Anushka Khadka,5,3,2,3,5,4,2,4,5,3,4,3,4,4,3,2,3,5,3,4,5,5,3,3,4,5,4,2,3,4,3,2,3,2,Marwari Vidyalaya,Anushka Khadka,U12,10,Female,JFK,1
+MUM41,Mumbai,Present,Suraj Ramhit Jaiswar,4,3,2,3,4,4,3,4,5,2,2,3,2,5,4,2,1,4,3,2,4,5,4,2,2,5,3,2,3,4,2,4,3,2,Worli Sea Face,Suraj Ramhit Jaiswar,U14,12,Male,JFK,2
+MUM42,Mumbai,Present,Vivek Santosh Kahar,4,4,3,2,2,3,4,4,5,2,3,2,4,5,3,4,4,5,3,4,2,4,5,5,4,3,4,3,2,2,4,4,3,2,Worli Sea Face,Vivek Santosh Kahar,U14,13,Male,JFK,3
+MUM43,Mumbai,Present,Sachin Jaiswal,4,3,1,3,5,5,4,5,5,4,4,5,4,2,3,2,1,5,4,2,4,5,3,4,4,5,5,4,5,3,2,2,3,2,Worli Sea Face,Sachin Jaiswal,U14,13,Male,JFK,2
+MUM45,Mumbai,Present,Vishnu Sony,5,3,4,5,2,3,2,2,5,4,5,5,3,4,2,5,1,3,2,2,4,5,5,2,4,5,5,3,3,2,4,5,2,1,Worli Sea Face,Vishnu Sony,U14,13,Male,JFK,3
+MUM46,Mumbai,Present,Ankith Halder,4,3,2,4,5,4,2,3,3,2,3,3,4,1,2,2,4,5,4,1,3,5,3,2,4,5,4,2,4,4,3,1,3,4,Worli Sea Face,Ankith Halder,U14,14,Male,JFK,3
+MUM48,Mumbai,Present,Divesh Halder,4,2,2,5,5,5,2,4,5,3,4,3,4,2,4,1,4,5,2,4,2,4,2,2,2,4,5,3,4,4,1,1,2,5,Worli Sea Face,Divesh Halder,U14,13,Male,JFK,2
+MUM49,Mumbai,Present,Yashoda Chinakapol,4,5,3,2,5,1,5,5,5,4,4,3,3,1,1,5,1,3,4,4,5,5,3,1,4,5,5,2,3,5,4,5,1,3,Sitaram High School,Yashoda Chinakapol,U12,11,Female,JFK,1
+MUM50,Mumbai,Present,Yash Pandey,4,3,5,3,2,3,1,4,5,2,3,3,4,2,4,5,1,5,3,4,5,3,4,1,4,5,2,4,3,5,5,1,5,1,Sitaram High School,Yash Pandey,U12,12,Male,JFK,1
+MUM51,Mumbai,Present,Samrudhi Ghatkar,5,4,2,1,5,5,2,3,5,5,4,4,4,3,1,5,1,5,4,3,2,5,3,1,4,5,5,4,3,3,1,1,1,1,Sitaram High School,Samrudhi Ghatkar,U12,10,Female,JFK,1
+MUM52,Mumbai,Present,Jyoti Thakur,5,4,1,5,2,3,5,2,5,3,5,4,3,1,1,1,5,5,1,1,4,2,3,1,4,5,3,3,4,3,1,2,2,1,Sitaram High School,Jyoti Thakur,U12,10,Female,JFK,1
+MUM53,Mumbai,Present,Shivam Mallah,5,5,3,2,5,4,2,5,4,3,5,5,4,4,5,2,3,5,4,3,2,5,4,1,5,5,5,3,5,5,3,1,5,4,Sitaram High School,Shivam Mallah,U12,12,Female,JFK,1
+MUM54,Mumbai,Present,Shreya Chavan,4,3,3,4,3,3,3,2,4,3,2,5,5,5,3,3,3,5,3,3,3,4,2,3,4,5,3,3,4,3,4,4,3,4,Sitaram High School,Shreya Chavan,U12,11,Female,JFK,1
+MUM55,Mumbai,Present,Rahul Sahu,5,2,3,5,5,5,3,2,5,5,4,2,5,2,5,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sitaram High School,Rahul Sahu,U12,12,Male,JFK,1
+MUM56,Mumbai,Present,Shreya Singh,3,5,2,4,5,5,1,5,5,5,4,5,5,3,1,2,5,3,4,4,4,5,3,2,5,5,5,3,3,4,5,3,3,2,Sitaram High School,Shreya Singh,U12,12,Female,JFK,1
+MUM57,Mumbai,Present,Ayush Varma,3,3,3,4,4,3,3,4,5,3,4,3,3,5,4,3,4,5,3,3,4,3,2,1,4,4,2,2,5,3,4,3,3,4,Sitaram High School,Ayush Varma,U12,10,Male,JFK,1
+MUM58,Mumbai,Present,Lovekik Dhurnal,3,2,4,5,3,4,1,5,5,3,3,1,5,5,5,5,5,3,5,1,5,3,5,1,5,5,1,5,5,5,5,5,1,5,Sitaram High School,Lovekik Dhurnal,U12,12,Female,JFK,1
+MUM61,Mumbai,Present,Ayan Bilal Sayyed,3,2,1,3,4,2,2,5,3,5,3,4,4,5,1,2,1,5,4,3,3,3,1,5,3,3,5,4,5,3,5,5,5,2,Holy Star,Ayan Bilal Sayyed,U12,10,Male,JFK,1
+MUM62,Mumbai,Present,Aasiya Badsha Shaikh,5,2,3,3,3,4,2,5,5,5,3,5,5,3,5,5,2,3,2,3,3,3,2,1,3,4,4,3,3,3,3,5,3,3,Holy Star,Aasiya Badsha Shaikh,U12,10,Male,JFK,1
+MUM64,Mumbai,Present,Khan Nikhat Ansar,5,3,3,3,5,3,1,4,5,5,3,4,5,3,4,3,3,4,2,3,5,5,3,2,5,5,5,4,5,4,3,1,3,5,Holy Star,Khan Nikhat Ansar,U12,11,Female,JFK,1
+MUM65,Mumbai,Present,Zoya Jaffar Shaikh,4,3,4,5,4,5,2,5,5,4,4,5,5,4,5,3,1,2,3,1,4,5,3,2,3,4,4,2,3,4,4,5,2,2,Holy Star,Zoya Jaffar Shaikh,U12,11,Female,JFK,1
+MUM69,Mumbai,Present,Sahil Khan,5,3,4,3,5,4,2,5,5,4,3,5,4,3,2,3,2,5,2,3,2,3,2,3,2,5,3,3,4,5,3,3,3,5,Holy Star,Sahil Khan,U12,11,Male,JFK,1
+MUM70,Mumbai,Present,Mehek Ansari,5,4,3,5,4,5,2,5,5,5,4,5,5,4,5,3,5,4,5,3,5,5,3,1,4,4,5,5,5,4,3,1,3,5,Holy Star,Mehek Ansari,U12,10,Female,JFK,1
+MUM72,Mumbai,Present,Vinit Rawat,5,4,5,4,5,4,3,4,5,5,4,5,5,5,2,5,4,5,5,4,3,5,3,5,5,5,5,5,5,5,5,1,3,1,Nehru Nagar MPS,Vinit Rawat,U10,10,Male,JFK,1
+MUM74,Mumbai,Present,Echcha,3,2,1,5,2,2,3,2,5,2,5,2,3,4,3,2,2,5,3,4,5,5,2,1,5,4,5,3,5,1,2,5,4,3,Nehru Nagar MPS,Iccha Mishra,U10,8,Female,JFK,1
+MUM76,Mumbai,Present,Saibanaaz,5,3,3,2,2,1,4,3,5,3,3,5,3,5,3,1,3,5,4,3,4,2,2,3,5,4,1,5,2,4,5,5,1,1,Nehru Nagar MPS,Saibanaaz Shaikh,U10,8,Female,JFK,1
+MUM79,Mumbai,Present,Amit,4,5,1,2,1,2,2,4,3,1,5,2,2,1,4,2,4,5,2,2,2,2,2,3,3,4,1,2,1,2,4,2,1,4,Nehru Nagar MPS,Amit Thakur,U10,9,Male,JFK,1
+MUM80,Mumbai,Present,Sonam,5,4,1,5,5,2,3,4,5,4,4,4,5,4,5,1,4,5,5,5,5,1,3,2,5,3,3,2,4,1,5,1,5,1,Nehru Nagar MPS,Sonam Thakur,U10,8,Female,JFK,1
+DEL01,Delhi,Present,Jatin,5,5,1,3,3,2,2,1,5,2,2,3,1,5,5,2,5,3,4,3,3,5,5,1,3,3,3,3,5,1,3,5,4,1,SEF Arjun Nagar,Jatin,2,7,Male,MB,1
+DEL03,Delhi,Present,Kunal,5,5,3,5,3,3,2,5,5,5,5,5,5,3,3,5,1,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,SEF Arjun Nagar,Kunal,2,6,Male,MB,1
+DEL04,Delhi,Present,Ayush,5,2,5,5,3,2,3,4,3,3,3,4,5,1,3,4,1,3,3,5,4,3,2,2,3,4,3,2,4,4,4,4,2,2,SEF Arjun Nagar,Ayush Bharti,3,9,Male,MB,1
+DEL05,Delhi,Present,Ishaan,4,5,3,4,2,2,1,5,5,1,5,5,5,5,1,2,5,4,3,2,1,5,5,4,3,2,5,4,3,5,4,2,4,5,SEF Arjun Nagar,Ishaan,3,7,Male,MB,1
+DEL08,Delhi,Present,Pushpender,5,5,1,5,3,5,2,5,5,5,5,5,4,4,4,1,4,5,4,5,3,5,5,1,5,4,2,5,3,4,4,4,5,1,SEF Arjun Nagar,Pushpender,3,7,Male,MB,1
+DEL09,Delhi,Present,Umesh,5,4,1,5,5,4,3,5,5,5,3,5,5,3,2,4,3,4,4,4,5,5,5,5,5,5,5,5,5,4,5,5,4,5,SEF Arjun Nagar,Umesh,2,6,Male,MB,1
+DEL10,Delhi,Present,Sachin,4,1,5,4,3,2,4,5,4,2,5,4,5,5,4,3,5,4,3,3,3,2,3,5,3,5,5,3,5,3,5,3,5,5,SEF Arjun Nagar,Sachin,2,7,Male,MB,1
+DEL11,Delhi,Present,Saumya,2,3,1,5,3,1,5,2,4,2,1,3,4,1,2,2,1,5,3,3,3,3,5,5,5,1,5,5,4,5,5,3,5,1,Katha Ambedkar Nagar,Saumya,3,7,Female,MB,1
+DEL12,Delhi,Present,Janvi,4,3,4,4,2,4,2,4,3,5,4,5,4,4,1,4,5,4,5,5,5,5,5,3,5,5,5,5,5,5,5,2,3,2,Katha Ambedkar Nagar,Janvi,3,8,Female,MB,1
+DEL13,Delhi,Present,Aditi,5,5,1,5,5,1,3,5,3,5,5,5,5,5,5,5,5,5,3,4,3,5,3,3,5,4,5,5,4,5,5,3,4,5,Katha Ambedkar Nagar,Aditi,3,10,Female,MB,1
+DEL14,Delhi,Present,Jasdeep Kaur,5,5,3,3,5,1,1,2,4,2,2,2,1,3,4,4,5,4,4,3,5,3,3,1,3,1,3,2,5,3,3,4,3,1,Katha Ambedkar Nagar,Jasdeep Kaur,3,7,Female,MB,1
+DEL16,Delhi,Present,Prerna,5,5,1,5,2,2,2,5,2,2,3,2,2,3,2,3,2,5,1,5,3,3,4,3,5,2,2,2,3,2,5,3,5,5,Katha Ambedkar Nagar,Prerna,3,8,Female,MB,1
+DEL18,Delhi,Present,Vanshika,3,5,4,3,5,4,2,4,5,4,3,5,5,4,3,4,1,5,4,3,3,3,2,3,2,5,4,2,3,3,5,5,1,3,Katha Ambedkar Nagar,Vanshika,3,9,Female,MB,1
+DEL19,Delhi,Present,Gunjan,5,5,5,5,5,3,3,5,5,1,5,5,5,5,5,3,3,4,5,3,5,3,3,3,3,4,3,5,3,5,5,3,5,3,Katha Ambedkar Nagar,Gunjan,3,9,Female,MB,1
+DEL23,Delhi,Present,Eklavya,5,4,3,3,2,3,1,5,5,3,3,3,3,3,1,3,5,4,3,2,3,2,3,2,5,5,5,1,5,5,3,3,3,5,Katha Lab Govindpuri,Eklavya Verma,6,11,Male,MB,2
+DEL24,Delhi,Present,Shahzadi,5,3,2,3,5,2,1,5,5,5,2,5,4,2,1,2,1,5,3,1,5,5,4,1,5,3,5,3,5,4,3,1,4,2,Katha Lab Govindpuri,Shahzadi Khatoon,8,11,Female,MB,3
+DEL27,Delhi,Present,Kajal,5,3,3,3,3,5,1,5,5,3,3,3,5,5,1,3,5,4,1,3,5,4,3,1,4,5,5,3,5,5,4,1,3,3,Katha Lab Govindpuri,Kajal Kumari,7,11,Female,MB,3
+DEL28,Delhi,Present,Ravi Rai,5,2,1,3,5,3,3,5,3,2,3,3,5,2,5,3,3,3,1,3,5,4,4,5,3,2,5,5,2,5,3,1,1,5,Katha Lab Govindpuri,Ravi Rai,7,12,Male,MB,3
+DEL29,Delhi,Present,Salman Khan,5,3,4,3,5,3,2,5,5,2,4,3,5,3,2,2,5,4,1,5,5,3,3,5,3,5,4,3,1,5,3,1,3,1,Katha Lab Govindpuri,Salman Khan,6,11,Male,MB,3
+DEL30,Delhi,Present,Pari Sharma,4,5,3,2,4,3,2,3,5,4,5,3,5,3,2,2,5,5,3,4,5,4,3,3,1,5,5,5,4,5,5,1,3,5,Katha Lab Govindpuri,Pari Sharma,6,10,Female,MB,3
+DEL31,Delhi,Present,Deepa Karan,4,3,3,2,4,3,1,3,4,3,2,4,5,3,1,2,3,3,2,5,5,3,5,3,5,5,5,5,5,5,5,1,3,3,Katha Lab Govindpuri,Deepa Karan,6,10,Female,MB,3
+DEL34,Delhi,Present,Saurya,5,3,3,5,2,1,1,5,5,5,5,1,5,5,2,5,5,3,5,3,3,1,2,1,3,5,2,2,2,3,3,3,1,4,Peepul School Lajpat Nagar,Saurya,3,10,Male,MB,2
+DEL35,Delhi,Present,Munmun,5,3,1,5,2,2,1,4,5,4,5,5,4,3,4,5,5,5,5,1,5,3,3,3,5,5,4,5,4,5,3,1,5,5,Peepul School Lajpat Nagar,Munmun Das,3,8,Female,MB,2
+DEL36,Delhi,Present,Honey,3,4,1,3,3,3,3,2,2,3,5,1,1,4,3,1,1,5,3,2,5,2,5,3,5,5,3,5,3,5,3,5,5,3,Peepul School Lajpat Nagar,Honey,4,11,Male,MB,3
+DEL37,Delhi,Present,Rajalakshmi,2,5,5,4,5,5,2,4,5,4,4,3,5,4,2,5,3,4,4,1,4,2,5,2,3,5,2,3,5,5,2,5,1,5,Peepul School Lajpat Nagar,Rajalakshmi,3,9,Female,MB,3
+DEL38,Delhi,Present,Ravi,4,3,3,2,4,5,2,5,5,5,5,3,5,4,5,4,3,5,3,3,3,3,1,2,2,5,3,2,2,5,2,1,1,2,Peepul School Lajpat Nagar,Ravi,3,8,Male,MB,2
+DEL39,Delhi,Present,Ritika Rajesh,3,5,3,4,3,4,1,3,5,3,2,5,5,4,5,2,2,5,4,2,5,3,4,3,3,4,3,4,3,4,3,2,3,4,Peepul School Lajpat Nagar,Ritika Rajesh,4,9,Female,MB,3
+DEL40,Delhi,Present,Chandni Chauhan,4,3,2,3,2,3,4,2,5,5,3,2,3,2,5,3,2,5,3,2,3,4,3,3,2,5,4,1,3,4,2,3,1,3,Peepul School Lajpat Nagar,Chandni Chauhan,4,8,Female,MB,3
+DEL41,Delhi,Present,Shiva,5,3,5,5,5,5,1,3,5,5,3,5,5,5,5,3,3,5,5,3,5,5,1,1,5,5,3,5,3,4,5,1,1,5,Peepul School Lajpat Nagar,Shiva Choudhary,4,9,Male,MB,3
+DEL42,Delhi,Present,Teena,4,3,3,2,5,4,2,5,4,5,3,3,5,1,5,1,5,3,5,2,5,5,3,1,3,5,3,3,4,5,3,5,2,3,Peepul School Lajpat Nagar,Teena,4,10,Female,MB,2
+DEL43,Delhi,Present,Priya,5,3,3,3,2,2,1,4,5,5,3,3,4,4,3,2,5,1,3,3,3,1,3,1,4,5,3,3,3,3,3,1,3,4,Peepul School Lajpat Nagar,Priya,4,9,Female,MB,2
