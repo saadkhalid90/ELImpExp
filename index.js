@@ -258,7 +258,6 @@ function draw(ELData, question){
                   .attr('class', 'toolRow')
                   .html(entry => `<span class = "Label">${entry.label}</span><span class = "Value">${d[entry.value]}</span>`);
 
-          console.log(document.getElementById('hoverBox').getBoundingClientRect());
         }
         else {
           d3.select('#hoverBox').remove();
@@ -275,10 +274,23 @@ function Rearr(data, filtObj){
     let sexLog = filtObj.Sex == null ? true : d.Gender == filtObj.Sex;
     let progLog = filtObj.Program == null ? true : d.Program == filtObj.Program;
     let yoiLog = filtObj.YOI == null ? true : d["Year of Intervention"] == filtObj.YOI;
+    let ageGrpLog = filtObj.ageGrp == null ? true : filterAge(d, filtObj.ageGrp);
+
+    function filterAge(entry, option){
+      if (option == "Under 10") {
+        return entry["Age"] <= 10;
+      }
+      else if (option == "Under 12"){
+        return entry["Age"] > 10 & d["Age"] <= 12
+      }
+      else {
+        return entry["Age"] > 12;
+      }
+    }
 
 
     // combined logical
-    let logical =  cityLog & sexLog & progLog & yoiLog;
+    let logical =  cityLog & sexLog & progLog & yoiLog & ageGrpLog;
     if (type == "filt"){
       d.filt = logical ? true : false;
       return logical
@@ -305,17 +317,24 @@ d3.selectAll('.selector').on('input', function(d, i){
   program = program == "null" ? null : program;
   let yoi = getValSel('.selector.yoiSelect');
   yoi = yoi == "null" ? null : yoi;
+  let ageGrp = getValSel('.selector.ageGrpSelect');
+  ageGrp = ageGrp == "null" ? null : ageGrp;
+
 
   function getValSel(selection){
     return d3.select(selection).node().value
   }
 
-  let RearrData = Rearr(ELData, {
+  RearrData = Rearr(ELData, {
     City: city,
     Sex: sex,
     Program: program,
-    YOI: yoi
+    YOI: yoi,
+    ageGrp: ageGrp
   })
+
+
+
 
 
   draw(RearrData, question)
